@@ -8,7 +8,7 @@ In order to compile these demos (e.g. in Arduino IDE), you will need the followi
 
 * [ESP8266 Arduino Core](https://github.com/esp8266/Arduino) or [ESP32 Arduino Core](https://github.com/espressif/arduino-esp32) if you are compiling to ESP microcontrollers
 * [ArrowheadESP](https://github.com/arrowhead-f/ArrowheadESP)
-* [Arrowhead Adapter](https://github.com/bazileos/adapter-quick-demo-dev)
+* [Arrowhead Adapter](https://github.com/arrowhead-f/adapter-quick-demo-dev)
 * [MeArm](https://github.com/yorkhackspace/meArm)
 
 ## Arrowhead configuration
