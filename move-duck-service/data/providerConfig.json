@@ -1,0 +1,5 @@
+{
+   "serviceRegistryAddress": "10.0.0.53",
+   "serviceRegistryPort": "8443",
+   "systemName": "mearm-robot1"
+}

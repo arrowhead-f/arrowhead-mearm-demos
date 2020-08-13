@@ -1,0 +1,9 @@
+{
+    "insecure":"1",
+    "filenameCa":"ca.der",
+    "filenamePk":"private.der",
+    "filenameCl":"cert.der",
+    "filenameSc":"clcert.pem",
+    "filenameSk":"serverkey.pem",
+    "publicKey":"MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAkU00S8YEcQy9Sok+b/ZkrQp6xclKLycWUHOy0iS9z846NE+p+It20Z2+pTMitSWW8FvqmR3PVdW2PQQj323fEShbctF5JkH2BT1RTg/3dbIyEuqI9mwkJ2G6Lmdnh02p32+mZTJIRHQ+TyETpKqb8vz7XErApVCcmd2Q0WC99fEDix/Q+TMxGhw25XjkkUUEpppe472AbiFFTF9WHvhGZ0C/cJT1B4Y1NEgmAfGAARG75Ste3tdsH7Uqa8ADWOlmpMFlIhGETN0Suu6i4IHqG+VIM8x5rR2R3KmZKFAnXsJISAZeBjV+HIkr9PWn+bhZeTi/93FgTx0H2TAG3Oz83wIDAQAB"
+}
